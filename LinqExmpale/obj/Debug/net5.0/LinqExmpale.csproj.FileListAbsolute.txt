@@ -1,0 +1,16 @@
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\bin\Debug\net5.0\LinqExmpale.exe
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\bin\Debug\net5.0\LinqExmpale.deps.json
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\bin\Debug\net5.0\LinqExmpale.runtimeconfig.json
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\bin\Debug\net5.0\LinqExmpale.runtimeconfig.dev.json
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\bin\Debug\net5.0\LinqExmpale.dll
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\bin\Debug\net5.0\ref\LinqExmpale.dll
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\bin\Debug\net5.0\LinqExmpale.pdb
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.csproj.AssemblyReference.cache
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.AssemblyInfoInputs.cache
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.AssemblyInfo.cs
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.csproj.CoreCompileInputs.cache
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.dll
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\ref\LinqExmpale.dll
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.pdb
+C:\Users\jafapour\Desktop\LinqExmpale\LinqExmpale\obj\Debug\net5.0\LinqExmpale.genruntimeconfig.cache

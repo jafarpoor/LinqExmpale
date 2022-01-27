@@ -1,0 +1,16 @@
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\bin\Debug\net5.0\Distinc.exe
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\bin\Debug\net5.0\Distinc.deps.json
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\bin\Debug\net5.0\Distinc.runtimeconfig.json
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\bin\Debug\net5.0\Distinc.runtimeconfig.dev.json
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\bin\Debug\net5.0\Distinc.dll
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\bin\Debug\net5.0\ref\Distinc.dll
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\bin\Debug\net5.0\Distinc.pdb
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.csproj.AssemblyReference.cache
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.AssemblyInfoInputs.cache
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.AssemblyInfo.cs
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.csproj.CoreCompileInputs.cache
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.dll
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\ref\Distinc.dll
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.pdb
+C:\Users\jafapour\Desktop\LinqExmpale\Distinc\obj\Debug\net5.0\Distinc.genruntimeconfig.cache
